@@ -1,8 +1,4 @@
-//Se dă un fișier *.csv ce conține următoarele câmpuri separate prin simbolul /: nume, prenume, număr de telefon, data 
-//nașterii, link la profilul de Facebook. Să se citească informația din fișier și să se genereze noi fișiere (individuale) ce 
-//conțin doar persoanele cu următoarele caracteristici: persoanele născute în luna decembrie, persoane ale căror numere 
-//de telefon sunt externe României sau au număr de telefon fix, persoane cu numele Andrei sau Nicolae și persoane ale 
-//căror link-uri de la profilul de Facebook nu au fost customizate (conțin un șir aleator de numere la finalul acestuia).
+
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
