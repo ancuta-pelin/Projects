@@ -1,4 +1,5 @@
 This repository contains some personal Java projects.
+
   Activitati_copil is an application which defines a class named Child. Define the methods and member variables for this class 
 which enble a Child object to store/do the following:
 - the name of the child
